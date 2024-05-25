@@ -16,7 +16,7 @@ springdoc.swagger-ui.path=/swagger-ui.html
 
 
 ## Clone the Repository
-git clone 
+git clone https://github.com/amine-boujouna/test_technique_backend.git
 
 ## Build the Project:
 mvn clean install
